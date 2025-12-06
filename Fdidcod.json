@@ -4,8 +4,8 @@
       "key": "P268670695A",
       "device_id": "4286d8aa-f1b0-40d0-a294-14fe5febe47f",
       "expiry_date": "2026-06-06",
-      "active": true,
-      "status": "active",
+      "active": false,
+      "status": "inactive",
       "created_date": "2025-12-07",
       "max_devices": 1
     },
@@ -13,8 +13,8 @@
       "key": "valid30mi",
       "device_id": "726f8ef3-b896-4571-99de-2a5c119ca40a", 
       "expiry_date": "2025-12-07",
-      "active": true,
-      "status": "active",
+      "active": false,
+      "status": "inactive",
       "created_date": "2025-11-15",
       "max_devices": 1
     },
@@ -22,8 +22,8 @@
       "key": "R1weed625k",
       "device_id": "c827aaaa-1c3e-42d9-a7b7-1e0952453fdc",
       "expiry_date": "2025-12-12",
-      "active": true,
-      "status": "active",
+      "active": false,
+      "status": "inactive",
       "created_date": "2025-01-01",
       "max_devices": 1
     }
