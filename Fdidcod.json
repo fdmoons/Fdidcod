@@ -19,11 +19,11 @@
       "max_devices": 1
     },
     {
-      "key": "R1weed625k",
-      "device_id": "c827aaaa-1c3e-42d9-a7b7-1e0952453fdc",
-      "expiry_date": "2025-12-12",
-      "active": false,
-      "status": "inactive",
+      "key": "Ram",
+      "device_id": "1befcdba13031655",
+      "expiry_date": "2026-12-12",
+      "active": true,
+      "status": "active",
       "created_date": "2025-01-01",
       "max_devices": 1
     }
