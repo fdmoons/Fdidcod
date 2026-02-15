@@ -18,6 +18,21 @@
         "expirydate": "11-03-2026",
         "Allowoffline": true
     },
+
+    {
+        "device_id": "1f94f8459cdc8c15",
+        "key": "ca644ca86a",
+        "expirydate": "11-03-2026",
+        "Allowoffline": true
+    },
+
+    {
+        "device_id": "945653ec0d2ac8b0",
+        "key": "8e01494088",
+        "expirydate": "13-03-2026",
+        "Allowoffline": true
+    },
+    
     {
         "device_id": "fdaa60726140ccfb",
         "key": "5354bd08e9",
